@@ -7,6 +7,7 @@ int chooseCase, chooseYorN, chooseLang, payDabtCase, chooseDabt; // Chooseing va
 
 // English functions
 void depositMoneyFunc();
+void withdrawMoneyFunc();
 void takeCreditFunc();
 void showBalance();
 void dabtFunc();
